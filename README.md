@@ -33,7 +33,7 @@ JS
 
 Jquery
 
-Bootstraap
+Bootstrap
 ## Screenshots of My Project:
 ### Home Page
 ![Screenshot (78)](https://github.com/C-Mary-Magdalene/Dentition-A-Medical-Category-Website-related-to-Dental-Care/assets/85544574/889587ae-a12c-4144-baa7-56bf54099968)
