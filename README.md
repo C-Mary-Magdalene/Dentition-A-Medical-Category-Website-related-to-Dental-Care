@@ -73,12 +73,7 @@ Bootstrap
 ![Screenshot (105)](https://github.com/C-Mary-Magdalene/Dentition-A-Medical-Category-Website-related-to-Dental-Care/assets/85544574/4fd52374-cb26-4d49-af09-496f5f5b3c26)
 
 ### Message Page
-![Screenshot (107)](https://github.com/C-Mary-Magdalene/Dentition-A-Medical-Category-Website-related-to-Dental-Care/assets/85544574/b850a798-cec2-43f9-baba-a018c0817400)
-
-
-
-
-
+![Screenshot (108)](https://github.com/C-Mary-Magdalene/Dentition-A-Medical-Category-Website-related-to-Dental-Care/assets/85544574/08fe1803-b9b4-44ca-ba0e-5c378e9ea4e2)
 
 
 
