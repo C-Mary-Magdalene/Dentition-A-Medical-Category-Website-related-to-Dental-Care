@@ -59,8 +59,31 @@ Bootstrap
 ### Contact Page
 ![Screenshot (87)](https://github.com/C-Mary-Magdalene/Dentition-A-Medical-Category-Website-related-to-Dental-Care/assets/85544574/13337ea0-774d-4111-9255-fbe73d173c51)
 
+![Screenshot (106)](https://github.com/C-Mary-Magdalene/Dentition-A-Medical-Category-Website-related-to-Dental-Care/assets/85544574/cbc1d04f-e150-455e-8bce-886628aa16a0)
+
 ### HealthBot Page
 ![Screenshot (88)](https://github.com/C-Mary-Magdalene/Dentition-A-Medical-Category-Website-related-to-Dental-Care/assets/85544574/9c7f8c44-d1a5-4db8-b7e7-2b7fd54a7ba3)
+
+### Booking Page
+![Screenshot (103)](https://github.com/C-Mary-Magdalene/Dentition-A-Medical-Category-Website-related-to-Dental-Care/assets/85544574/431fb235-5f0f-46c1-b570-8b439e345411)
+
+![Screenshot (104)](https://github.com/C-Mary-Magdalene/Dentition-A-Medical-Category-Website-related-to-Dental-Care/assets/85544574/49b5d2aa-c952-4e08-9890-7a6cda43c7b8)
+
+### Success Page
+![Screenshot (105)](https://github.com/C-Mary-Magdalene/Dentition-A-Medical-Category-Website-related-to-Dental-Care/assets/85544574/4fd52374-cb26-4d49-af09-496f5f5b3c26)
+
+### Message Page
+![Screenshot (107)](https://github.com/C-Mary-Magdalene/Dentition-A-Medical-Category-Website-related-to-Dental-Care/assets/85544574/b850a798-cec2-43f9-baba-a018c0817400)
+
+
+
+
+
+
+
+
+
+
 ## Github Link of Project for Hosting via Github:
 https://c-mary-magdalene.github.io/Dentition-A-Medical-Category-Website-related-to-Dental-Care/
 ## Project Link of Hosting in Azure Platform Using Static Web App:
